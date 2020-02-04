@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
+		Martha Halli,Opp To Madhuoioiorai Iddly House
 		
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
