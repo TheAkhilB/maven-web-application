@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to DevOps Enabler & Co.</h1>
+<h1 align="center">Welcome to Github</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS </h1>
 <hr>
 <div style="text-align: center;">
