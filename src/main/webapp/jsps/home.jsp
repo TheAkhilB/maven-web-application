@@ -20,7 +20,7 @@
 		
 		
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com"></a>
+		<a href="mailto:xyz@gmail.com"></a>
 	</span>
 </div>
 <hr>
