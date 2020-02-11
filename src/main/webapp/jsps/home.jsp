@@ -11,6 +11,7 @@
 <body>
 <h1 align="center">Welcome to Github New Life</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS </h1>
+<h1>
 <hr>
 <div style="text-align: center;">
 	<span>
